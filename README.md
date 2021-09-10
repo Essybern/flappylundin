@@ -1,2 +1,2 @@
-# flappylundin
+# flappypuffin
 Ein lundi sum roynir at geva ungum sínum at eta.
